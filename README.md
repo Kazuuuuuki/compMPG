@@ -1,0 +1,2 @@
+# CompositionalMeanPayoffGames# CategoricalSolverForMPG
+# CategoricalSolverForMPG

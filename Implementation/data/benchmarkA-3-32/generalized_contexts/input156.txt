@@ -1,0 +1,5 @@
+1
+1
+SComp (SComp (Node Adam (-22041) [DRight,DLeft] [DRight,DRight,DRight,DRight,DLeft,DRight,DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DRight,DLeft,DRight]) (Node Adam 41692 [DRight,DRight,DRight,DRight,DLeft,DRight,DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DRight,DLeft,DRight] [DRight,DRight,DLeft,DRight,DRight,DLeft])) (SComp (Node Adam 90202 [DRight,DRight,DLeft,DRight,DRight,DLeft] [DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft]) (Node Adam (-86164) [DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft] [DRight,DLeft]))
+1
+SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (Var 0) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)
