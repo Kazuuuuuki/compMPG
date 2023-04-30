@@ -1,5 +1,0 @@
-1
-1
-MProd (MProd (Node Eve 0 [] []) (Node Eve 7509 [DRight] [])) (SComp (Node Adam (-68747) [DLeft] [DLeft,DLeft,DRight,DLeft,DLeft,DLeft,DRight,DLeft,DRight,DLeft]) (Node Eve 58749 [DLeft,DLeft,DRight,DLeft,DLeft,DLeft,DRight,DLeft,DRight,DLeft] [DRight,DLeft]))
-1
-SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (Var 0) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)
