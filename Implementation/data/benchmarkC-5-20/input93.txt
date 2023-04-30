@@ -1,0 +1,123 @@
+20
+5
+SComp (MProd (SComp (SComp (Node Adam 82371 [DRight,DLeft] [DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DRight,DLeft,DLeft,DLeft]) (Node Eve 43823 [DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DRight,DLeft,DLeft,DLeft] [DRight,DRight,DRight,DRight,DRight])) (MProd (Node Adam 52162 [DRight,DRight] [DLeft]) (Node Adam 2272 [DRight,DRight,DRight] [DRight,DLeft]))) (SComp (SComp (Node Eve 33128 [] [DLeft,DLeft,DRight,DLeft]) (Node Eve (-9158) [DLeft,DLeft,DRight,DLeft] [DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DLeft,DRight,DRight])) (MProd (Node Eve 73382 [DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DLeft] []) (Node Eve (-13190) [DRight,DRight] [DLeft,DRight])))) (MProd (MProd (SComp (Node Eve 62872 [] [DRight,DLeft,DLeft,DLeft,DLeft,DRight,DRight]) (Node Eve 65784 [DRight,DLeft,DLeft,DLeft,DLeft,DRight,DRight] [])) (MProd (Node Adam 14461 [DLeft] []) (Node Eve 0 [] []))) (MProd (MProd (Node Eve (-31832) [DRight,DLeft,DLeft] [DRight,DLeft]) (Node Eve (-67898) [DRight] [])) (SComp (Node Adam (-22015) [] [DLeft,DRight,DLeft,DRight,DLeft,DRight,DRight,DRight,DRight]) (Node Adam (-71919) [DLeft,DRight,DLeft,DRight,DLeft,DRight,DRight,DRight,DRight] []))))
+Id DRight
+Id DLeft
+Unit DLeft
+Counit DRight
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+5
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+1
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))

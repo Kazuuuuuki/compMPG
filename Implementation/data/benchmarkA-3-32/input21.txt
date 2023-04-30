@@ -1,0 +1,5 @@
+1
+1
+SComp (SComp (Node Eve (-35935) [DRight,DLeft] [DLeft]) (Node Eve (-62718) [DLeft] [DRight,DLeft,DRight,DLeft,DRight,DRight,DLeft,DRight])) (SComp (Node Adam (-15233) [DRight,DLeft,DRight,DLeft,DRight,DRight,DLeft,DRight] [DLeft,DLeft]) (Node Adam 86860 [DLeft,DLeft] [DRight,DLeft]))
+1
+SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (SComp (Var 0) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)) (Var 0)

@@ -1,0 +1,213 @@
+21
+9
+MProd (MProd (MProd (SComp (Node Adam 38350 [] [DRight,DLeft,DRight,DRight,DRight,DRight]) (Node Eve 10917 [DRight,DLeft,DRight,DRight,DRight,DRight] [])) (SComp (Node Adam 57336 [] [DLeft,DRight,DRight,DRight,DRight,DRight,DLeft,DRight,DLeft,DLeft,DLeft]) (Node Adam (-60690) [DLeft,DRight,DRight,DRight,DRight,DRight,DLeft,DRight,DLeft,DLeft,DLeft] []))) (MProd (SComp (Node Eve (-84905) [DRight,DLeft] [DLeft,DLeft,DLeft,DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight,DLeft,DLeft,DRight,DLeft,DLeft,DRight]) (Node Adam (-47741) [DLeft,DLeft,DLeft,DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight,DLeft,DLeft,DRight,DLeft,DLeft,DRight] [])) (MProd (Node Eve 86257 [] [DRight]) (Node Eve 0 [] [])))) (MProd (SComp (SComp (Node Eve 98149 [] [DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight,DRight,DRight,DRight,DLeft,DLeft,DRight,DLeft,DRight,DRight]) (Node Adam (-70715) [DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight,DRight,DRight,DRight,DLeft,DLeft,DRight,DLeft,DRight,DRight] [DLeft,DRight])) (MProd (Node Eve 0 [] []) (Node Adam (-27235) [DLeft,DRight] []))) (SComp (SComp (Node Adam (-65069) [] [DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft]) (Node Eve (-3807) [DRight,DLeft,DRight,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft] [DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DLeft,DRight,DLeft,DLeft,DLeft])) (MProd (Node Eve (-13856) [DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DLeft,DRight,DLeft,DRight,DLeft] []) (Node Adam 86078 [DLeft,DLeft] [DLeft]))))
+Id DRight
+Id DLeft
+Unit DLeft
+Counit DRight
+Node Eve 2 [DRight,DLeft] [DRight,DLeft,DRight,DLeft]
+Node Adam (-2) [DRight,DLeft] [DRight,DLeft,DRight,DLeft]
+Node Eve 2 [DRight,DLeft,DRight,DLeft] [DRight,DLeft]
+Node Adam (-2) [DRight,DLeft,DRight,DLeft] [DRight,DLeft]
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 7))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 7))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+1
+Var 0

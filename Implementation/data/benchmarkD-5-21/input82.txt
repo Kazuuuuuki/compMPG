@@ -1,0 +1,213 @@
+21
+9
+MProd (SComp (SComp (MProd (Counit DLeft) (Node Eve 36125 [] [DLeft])) (SComp (Node Adam (-17824) [DLeft] [DLeft,DRight,DLeft,DRight]) (Node Adam (-52829) [DLeft,DRight,DLeft,DRight] [DRight,DLeft,DLeft,DLeft,DRight,DLeft,DLeft,DRight,DRight,DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DRight]))) (SComp (MProd (Node Eve (-24218) [DRight,DLeft,DLeft,DLeft,DRight] [DLeft,DRight,DLeft]) (Node Adam (-30257) [DLeft,DLeft,DRight,DRight,DRight,DLeft,DLeft,DLeft,DLeft,DLeft,DRight] [DRight])) (SComp (Node Eve (-78751) [DLeft,DRight,DLeft,DRight] [DLeft,DLeft,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft,DLeft,DLeft,DLeft]) (Node Eve (-54409) [DLeft,DLeft,DRight,DRight,DLeft,DRight,DRight,DRight,DLeft,DLeft,DLeft,DLeft] [DRight])))) (SComp (SComp (MProd (Node Adam 88202 [] [DLeft,DLeft]) (Node Eve (-68812) [] [DLeft,DRight])) (SComp (Node Adam 44384 [DLeft,DLeft,DLeft,DRight] [DRight,DLeft,DLeft,DRight,DLeft,DLeft,DRight,DRight,DRight,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight]) (Node Eve (-50542) [DRight,DLeft,DLeft,DRight,DLeft,DLeft,DRight,DRight,DRight,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight] [DRight,DRight,DRight,DRight,DLeft,DRight,DLeft,DRight,DRight,DRight,DRight]))) (MProd (MProd (Node Adam (-27232) [DRight,DRight,DRight,DRight,DLeft] []) (Node Adam 86973 [DRight] [DLeft])) (MProd (Node Eve 89295 [DLeft] []) (Node Adam (-15167) [DRight,DRight,DRight,DRight] []))))
+Id DRight
+Id DLeft
+Unit DLeft
+Counit DRight
+Node Eve 2 [DRight,DLeft] [DRight,DLeft,DRight,DLeft]
+Node Adam (-2) [DRight,DLeft] [DRight,DLeft,DRight,DLeft]
+Node Eve 2 [DRight,DLeft,DRight,DLeft] [DRight,DLeft]
+Node Adam (-2) [DRight,DLeft,DRight,DLeft] [DRight,DLeft]
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 7))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 7))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 5) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (PComp (PComp (Var 1) (Var 3)) (Var 2)) (SComp (PComp (Var 0) (Var 0)) (PComp (PComp (Var 1) (Var 4)) (Var 2)))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 0) (Var 0)
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+9
+SComp (Var 6) (SComp (PComp (Var 0) (Var 0)) (Var 8))
+Var 1
+Var 2
+Var 3
+Var 4
+Var 5
+Var 6
+Var 7
+Var 8
+1
+Var 0
