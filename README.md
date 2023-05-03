@@ -2,6 +2,9 @@
 
 This is a compositional solver for MPGs.
 
+## Requirement 
+- stack https://docs.haskellstack.org/en/stable/
+
 ## How to build
 1 `cd Implementation`
 
@@ -20,9 +23,5 @@ For example, the following command solve the file `input1.txt`
 
 `stack run solveBench 1`
 
-
-
-## Requirement 
-- stack https://docs.haskellstack.org/en/stable/
 
 
