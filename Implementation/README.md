@@ -6,9 +6,7 @@ This is a compositional solver for MPGs.
 - stack https://docs.haskellstack.org/en/stable/
 
 ## How to build
-1 `cd Implementation`
-
-2 `stack build`
+1 `stack build`
 
 ## Inputs 
 Every input of the solver should be in the folder `generalized_contexts`. 
